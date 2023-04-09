@@ -5,7 +5,7 @@ import java.awt.event.*;
 import javax.swing.*;
 
 public class MidpointCircleDrawingAlgorithm extends JFrame {
-private int centerX, centerY, radius;
+	private int centerX, centerY, radius;
 	
 	public MidpointCircleDrawingAlgorithm() {
 		setTitle("Midpoint Circle Drawing Algorightm");
